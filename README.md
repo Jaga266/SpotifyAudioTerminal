@@ -16,6 +16,10 @@ A Cyberpunk Styled minimal audio player interface with WebNowPlaying integration
 
 - Compact 280x220px layout
 
+# Screenshot
+
+![[assets/screenshot.png]]
+
 # Requirements
 
 - Rainmeter 4.0+
