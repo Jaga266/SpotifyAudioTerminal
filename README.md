@@ -22,6 +22,10 @@ A **Cyberpunk Styled** minimal audio player interface with WebNowPlaying integra
 
 ![Screenshot 1](assets/screenshot.png)
 
+## Wallpaper link
+[Wallpaper Engine](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
+[Video](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
+
 ---
 
 # ⚙️ Requirements
