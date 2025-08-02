@@ -18,7 +18,7 @@ A Cyberpunk Styled minimal audio player interface with WebNowPlaying integration
 
 # Screenshot
 
-![[assets/screenshot.png]]
+![Screenshot 1](assets/screenshot.png)
 
 # Requirements
 
