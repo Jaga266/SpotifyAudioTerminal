@@ -4,29 +4,29 @@ A Cyberpunk Styled minimal audio player interface with WebNowPlaying integration
 
 # Features
 
--Web music control (currently supports Spotify and Windows audio players)
+- Web music control (currently supports Spotify and Windows audio players)
 
--Real-time track information display
+- Real-time track information display
 
--Progress bar with time indicators
+- Progress bar with time indicators
 
--Play/pause/previous/next controls
+- Play/pause/previous/next controls
 
--Cyberpunk-themed design with hover effects and transparency
+- Cyberpunk-themed design with hover effects and transparency
 
--Compact 280x220px layout
+- Compact 280x220px layout
 
 # Requirements
 
--Rainmeter 4.0+
+- Rainmeter 4.0+
 
--WebNowPlaying plugin
+- WebNowPlaying plugin
 
 
 # Compatibility
 
--Spotify (web/desktop)
+- Spotify (web/desktop)
 
--Windows built-in audio players
+- Windows built-in audio players
 
--Additional web players may require WebNowPlaying browser extension
+- Additional web players may require WebNowPlaying browser extension
